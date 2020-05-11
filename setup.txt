@@ -4,8 +4,8 @@ To setup:
 
 2. Install Arduino IDE for your ecosystem from https://www.arduino.cc/en/main/software
 
-3. unzip appropriate files
+3. cd Capstone_Spring2020
 
-4. cd into whichever file and open [filename].ino inside Arduino IDE
+4. unzip ArduinoSketches.zip
 
-5. All files include comments about what sketch should do.
+5. open appropriate *.ino file in Arduino IDE (e.g. open msfQuack/msfQuack.ino)
