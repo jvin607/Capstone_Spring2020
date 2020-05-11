@@ -1,0 +1,13 @@
+To setup:
+
+1. git clone https://github.com/jvin607/Capstone_Spring2020
+
+2. Install Arduino IDE for your ecosystem from https://www.arduino.cc/en/main/software
+
+3. cd Capstone_Spring2020/ArduinoSketches
+
+4. unzip appropriate files
+
+5. cd into whichever file and open [filename].ino inside Arduino IDE
+
+6. All files include comments about what sketch should do.
