@@ -15,3 +15,7 @@ Installing the Arduino Addon(Linux/macOS): https://learn.sparkfun.com/tutorials/
 
 
 Repo will not be maintained and will be archived after 20200513
+
+msfQuack demo: 
+https://youtu.be/RO6N1sgkqbM
+
