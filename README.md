@@ -35,5 +35,6 @@ Utilizes PowerShell to create exclusion path.  Creates PowerShell script to run 
 
 # Note
 No plans to maintain and will likely archive after 20200513
+PowerShell script files (denoted by '.ps1') were written by Daniel Contreras (windefend.ps1) and me (testScript.ps1) in an effort to thwart our attempts to disable Defender (msfQuack.ino and killDefend.ps1).  Unfortunately we ran out of time before we had to present our findings and had to abandon development.
 
 
