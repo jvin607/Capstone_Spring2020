@@ -13,6 +13,7 @@ Installing the Arduino Addon(Win): https://learn.sparkfun.com/tutorials/pro-micr
 
 Installing the Arduino Addon(Linux/macOS): https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#installing-mac--linux
 
+Board used for this project can be purchased here: https://www.amazon.com/KeeYees-ATmega32U4-Development-Microcontroller-Bootloader/dp/B07FXCTVQP
 
 # Brief overview of sketches:
 
