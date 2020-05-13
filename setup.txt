@@ -4,8 +4,14 @@ To setup:
 
 2. Install Arduino IDE for your ecosystem from https://www.arduino.cc/en/main/software
 
-3. cd Capstone_Spring2020
+3. Setup board management for Arduino Pro Micro as outlined for your ecosystem here:
+   
+   (Win) https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-windows
+   
+   (mac/Linux) https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-mac--linux
 
-4. unzip ArduinoSketches.zip
+4. cd Capstone_Spring2020
 
-5. open appropriate *.ino file in Arduino IDE (e.g. open msfQuack/msfQuack.ino)
+5. unzip ArduinoSketches.zip
+
+6. open appropriate *.ino file in Arduino IDE (e.g. open msfQuack/msfQuack.ino)
