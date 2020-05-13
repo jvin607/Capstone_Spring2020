@@ -1,5 +1,6 @@
 # Capstone_Spring2020
-Collection of various Arduino sketches used to showcase dangers of plugging in untrusted USB devices.  Arduino sketches range from creating new accounts to disabling defender prior to executing meterpreter payloads.  Targets Windows 10 (v. 1809)
+Collection of various Arduino sketches used to showcase dangers of plugging in untrusted USB devices.  Arduino sketches range from creating new accounts to disabling defender prior to executing meterpreter payloads.  
+Targets Windows 10 (v. 1809)
 
 Some resources we used:
 
