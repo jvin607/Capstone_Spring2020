@@ -1,3 +1,5 @@
+#Written by Daniel Contreras to try and mitigate settings being disabled by msfQuack.ino 
+
 Try
 {
     $settingsDefender = Get-MpComputerStatus
