@@ -1,3 +1,7 @@
+#Originally written as 'windefend.ps1' by Daniel Contreras
+#Attempting to check and see if certain features of Defender are disabled, and if they are, re-enable them
+#Will spit out location of exclusion path on system if it exists
+
 Try
 {
     $settingsDefender = Get-MpComputerStatus
